@@ -1,0 +1,31 @@
+System.inform("挑战TJS!"); // 显示一个消息框
+
+
+System.inform
+("挑战TJS!");
+
+System
+.
+inform
+(
+"挑战TJS!"
+)
+;
+
+System . inform (   "挑战TJS!"    );
+System . inform("挑战TJS!");  System . inform ( "另一条命令" );
+
+// Sys
+// tem.inform("挑战TJS!"); // 不能在单词/符号内部插入空白字符
+
+/*
+显示一个消息框
+*/
+System.inform("挑战TJS!");
+/*
+    /*
+        二重范围注释也是没问题的。
+    */
+*/
+
+
