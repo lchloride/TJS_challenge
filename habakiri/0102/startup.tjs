@@ -1,0 +1,3 @@
+var d = new Date();
+System.inform(d.getHours());    // 表示“小时”
+System.inform(d.getMinutes());  // 表示“分钟”
