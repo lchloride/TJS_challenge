@@ -1,5 +1,7 @@
 # TJS challenge
 
+> [说明文档简体中文版](https://github.com/lchloride/TJS_challenge/blob/master/readme_zh.md)
+
 This project contains the scripts for TJS tutorial series called TJSに挑戦(Challenge TJS). The original tutorials are written in Japanese whose link is [TJSに挑戦](http://tjs2.info/index.html).
 
 ## What is TJS?
@@ -70,6 +72,10 @@ Chapter 0: Introduction
 - [x] Section 0.2: Prepare to write a script
 
 Chapter 1: Basics of TJS
+
+- [x] Section 1.1: Writing scripts
+
+- [x] Section 1.2: Using methods
 
 Chapter 2: Class
 
