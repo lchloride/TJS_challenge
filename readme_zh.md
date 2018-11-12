@@ -76,6 +76,7 @@ System.inform("挑战TJS!");
 
 - [x] [挑战TJS Section1.1：脚本的写法](https://chenghongli.com/zh/tech/js-challenge-1-1-write-scripts/)
 - [x] [挑战TJS Section1.2：方法的使用](https://chenghongli.com/zh/tech/tjs-challenge-1-2-use-methods/)
+- [x] [挑战TJS Section1.4：变量的数据类型](https://chenghongli.com/zh/life/tjs-challenge-1-4-date-type-of-variables/)
 
 第2章: 类
 

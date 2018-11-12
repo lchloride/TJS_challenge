@@ -1,0 +1,9 @@
+var d = new Date();
+var year = d.getYear();        // 将年份值作为初始值直接赋值给变量year
+var month = d.getMonth() + 1;  //将(月份值+1)作为初始值直接赋值给变量month
+var day = d.getDate();         // 将日期值作为初始值直接赋值给变量day
+var hour = d.getHours();       // 将小时值作为初始值直接赋值给变量hour
+var minute = d.getMinutes();   // 将分钟值作为初始值直接赋值给变量mounte
+var second = d.getSeconds();   // 将秒钟值作为初始值直接赋值给变量second
+var message = year + "年" + month + "月" + day + "日" + hour + "時" + minute + "分" + second + "秒";
+System.inform(message);

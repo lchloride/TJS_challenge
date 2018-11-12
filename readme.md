@@ -77,6 +77,8 @@ Chapter 1: Basics of TJS
 
 - [x] Section 1.2: Using methods
 
+- [x] Section 1.4: Data types
+
 Chapter 2: Class
 
 Chapter 3: Native Classes
